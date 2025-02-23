@@ -19,12 +19,12 @@ pip install qrcode[pil] image
 ## Installation & Usage
 1. Clone this repository:
    ```sh
-   git clone https://github.com/aman0v0/qr-code-generator.git
+   git clone https://github.com/aman0v0/QR_code_generator.git
    cd qr-code-generator
    ```
 2. Run the script:
    ```sh
-   python qr_generator.py
+   python qrcodegenerator.py
    ```
 3. The QR code image will be saved as `test.png` in the project directory.
 
